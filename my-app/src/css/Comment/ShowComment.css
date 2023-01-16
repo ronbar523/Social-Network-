@@ -1,0 +1,174 @@
+@media screen and (max-width: 459px)  {
+
+  .comment-container {
+    margin-left: 22px; 
+    margin-right: 22px; 
+  }
+    
+  .created-by-comment {
+    font-size: 14px;
+    margin-top: 8px;
+    font-weight: bold;
+  }
+
+  .created-at-comment {
+    font-size: 10px;
+    margin-top: -17px;
+    margin-bottom: 10px;
+  }
+
+  .icon-comments {
+    border: none;
+    background: none;
+    margin-top: 14px;
+  }
+
+  .desc-comment {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: -20px;
+    word-wrap: break-word;
+    white-space: pre-line;  
+  }
+
+  .desc-comment-redux {
+    margin-top: -40px;
+    word-wrap: break-word;
+    white-space: pre-line;
+  } 
+
+  .show-more-btn-comment {
+    border: none;
+    background: none;
+    color: blue;
+    margin-left: 35px;
+    margin-bottom: 15px;
+  }
+}
+
+
+@media screen and (min-width: 460px) and (max-width: 699px) {
+
+  .comment-container {
+    margin-left: 22px; 
+    margin-right: 22px; 
+  }
+    
+  .created-by-comment {
+    font-size: 16px;
+    margin-top: 8px;
+    font-weight: bold;
+  }
+
+  .created-at-comment {
+    font-size: 10px;
+    margin-top: -17px;
+    margin-bottom: 10px;
+  }
+
+  .icon-comments {
+    border: none;
+    background: none;
+    margin-top: 14px;
+    margin-right: 10px;
+  }
+
+  .desc-comment {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: -20px;
+    word-wrap: break-word;
+    white-space: pre-line;  
+  }
+
+  .desc-comment-redux {
+    margin-top: -40px;
+    word-wrap: break-word;
+    white-space: pre-line;
+  } 
+
+  .show-more-btn-comment {
+    border: none;
+    background: none;
+    color: blue;
+    margin-left: 35px;
+    margin-bottom: 15px;
+  }
+}
+
+@media screen and (min-width: 700px) {
+
+  .comment-container {
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+
+  .created-by-photo-comment {
+    margin-top: -15px;
+  }
+
+  .created-by-comment {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: -4px;
+    font-weight: bold;
+  }
+
+  .created-at-comment {
+    font-size: 12px;
+    margin-top: -17px;
+    margin-left: -4px;
+    margin-bottom: 22px;
+  } 
+     
+  .icon-comments {
+    border: none;
+    background: none;
+    margin-top: 14px;
+    margin-right: 5px;
+  }
+
+  .desc-comment {
+    margin-left: 15px;
+    margin-top: -40px;
+    margin-right: 15px;
+    word-wrap: break-word;
+    white-space: pre-line;  
+  }
+
+  .desc-comment-redux {
+    margin-top: -50px;
+    word-wrap: break-word;
+    white-space: pre-line;
+  }
+
+  .show-more-btn-comment {
+    border: none;
+    background: none;
+    color: blue;
+    margin-left: 85px;
+    margin-bottom: 15px;
+  }
+}
+
+.comment-like {
+  border: none;
+  background: none;
+  margin-top: 14px;
+  margin-right: 10px;
+} 
+
+/* 
+.show-more-comment-btn {
+  border: none;
+  background: none;
+  color: blue;
+  position: relative ; top: -62px;
+} */
+
+.count-comment {
+    margin-top: 14px;
+    color: black;
+    font-size: 20px;
+}
+

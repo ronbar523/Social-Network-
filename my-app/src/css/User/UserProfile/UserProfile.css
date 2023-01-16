@@ -1,0 +1,206 @@
+@media screen and (min-width: 800px) {
+   .card-profile {
+     width: 65vw;
+     margin: auto;
+     position: relative; top: 20px;
+   }
+
+   .profile-photo {
+     height: 190px;
+     width: 190px;
+   }
+    
+   .nick-name {
+     font-size: 32px;
+     margin-left: 5px;
+     margin-top: -10px;
+   }
+
+   .full-name {
+     font-size: 24px;
+     margin-left: 5px;
+     margin-top: -20px;
+   }
+}
+ 
+@media screen and (min-width: 610px) and (max-width: 799px){
+   .card-profile {
+     width: 75vw;
+     margin: auto;
+     position: relative; top: 20px;
+   }
+
+   .profile-photo {
+     height: 190px;
+     width: 190px;
+   }
+    
+   .nick-name {
+     font-size: 32px;
+     margin-left: 5px;
+     margin-top: -10px;
+   }
+
+   .full-name {
+     font-size: 24px;
+     margin-left: 5px;
+     margin-top: -20px;
+   }
+}
+
+@media screen and (min-width: 361px) and (max-width: 609px) {
+   .card-profile {
+     width: 75vw;
+     margin: auto;
+     position: relative; top: 20px;
+   }
+
+   .profile-photo {
+     height: 120px;
+     width: 120px;
+     margin-left: 5px;
+   }
+
+   .nick-name {
+     font-size: 24px;
+     margin-left: 5px;
+     margin-top: -10px;
+   }
+
+   .full-name {
+     font-size: 18px;
+     margin-left: 5px;
+     margin-top: -18px;
+   }
+}
+
+@media screen and (min-width: 320px) and (max-width: 360px) {
+
+   .card-profile {
+     width: 80vw;
+     margin: auto;
+     position: relative; top: 20px;
+   }
+
+   .profile-photo {
+     height: 120px;
+     width: 120px;
+     margin-left: 7px;
+   }
+
+   .nick-name {
+     font-size: 24px;
+     margin-left: 7px;
+     margin-top: -10px;
+   }
+
+   .full-name {
+     font-size: 18px;
+     margin-left: 7px;
+     margin-top: -18px;
+   }
+}
+
+
+
+@media screen and (min-width: 1701px) {
+   .user-post {
+     width: 65vw;
+     margin: auto;
+     position: relative; top: 40px;
+   }
+
+   .image-post {
+      width: 20.3vw;
+      height: 270px;
+   }
+}
+
+@media screen and (min-width: 1451px) and (max-width: 1700px) {
+   .user-post {
+     width: 65vw;
+     margin: auto;
+     position: relative; top: 40px;
+   }
+
+   .image-post {
+      width: 20.3vw;
+      height: 230px;
+      margin-left: -0.5px
+   }
+}
+
+@media screen and (min-width: 1205px) and (max-width: 1450px) {
+   .user-post {
+     width: 65vw;
+     margin: auto;
+     position: relative; top: 40px;
+   }
+
+   .image-post {
+      width: 20.3vw;
+      height: 220px;
+      margin-left: -2.5px
+   }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1204px) {
+   .user-post {
+     width: 65vw;
+     margin: auto;
+     position: relative; top: 40px;
+   }
+
+   .image-post {
+      width: 20.3vw;
+      height: 220px;
+      margin-left: -4.5px
+   }
+}
+
+@media screen and (min-width: 800px) and (max-width: 991px) {
+   .user-post {
+     width: 65vw;
+     margin: auto;
+     position: relative; top: 40px;
+   }
+
+   .image-post {
+      width: 20.3vw;
+      height: 160px;
+      margin-left: -5.5px
+      /* margin-left: -6.5px */
+   }
+}
+
+@media screen and (min-width: 361px) and (max-width: 799px) {
+   .user-post {
+     width: 75vw;
+     margin: auto;
+     position: relative; top: 40px;
+   }
+
+   .image-post {
+      width: 24vw;
+      height: 160px;
+      margin-left: -9.2px
+   }
+}
+
+@media screen and (min-width: 320px) and (max-width: 360px) {
+   .user-post {
+     width: 80vw;
+     margin: auto;
+     position: relative; top: 40px;
+   }
+
+   .image-post {
+      width: 25.5vw;
+      height: 130px;
+      margin-left: -9px
+   }
+}
+
+.more-post {
+  margin: auto;
+}

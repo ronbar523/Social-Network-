@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.opacity-modal {
+  opacity: 0.2;
+}
+
+
+.modal-likes {
+  width: 100vw;
+  height: 500px;
+}
+
+.like-post-modal {
+  background-color: white ;
+  border: none;
+}
+
+.follow-btn {
+  position: relative; top: 20px; right: 20px; 
+
+  /* left: 180px; */
+  float: right;
+  
+}
+
+.modal-like-body {
+  height: 50vh;
+  overflow-y: auto;
+  margin-top: 10px;
+}
+
+.users-modal {
+  margin-top: -7px;
+}
+
+.btn-likes {
+  border: none;
+  
+}

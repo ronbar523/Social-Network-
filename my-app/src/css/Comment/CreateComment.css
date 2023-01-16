@@ -1,0 +1,27 @@
+@media screen and (max-width: 699px) {
+
+  .create-comment-container {
+    margin-left: 5px; 
+    margin-right: 5px; 
+  }
+
+  .create-comment {
+    width: 100vw
+  }
+  
+}
+
+
+@media screen and (min-width: 700px) {
+
+  .create-comment-container {
+    margin-left: 53px;
+    margin-right: 55px;
+  }
+
+  .create-comment {
+    width: 68vw;
+  }
+
+
+}

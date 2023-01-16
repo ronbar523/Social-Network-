@@ -1,0 +1,110 @@
+
+.model-block {
+    margin-top: 7%;
+    width: 30vw;
+}
+
+.model-text {
+    padding-left: 20px; 
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+
+.input-password {
+    display: flex; 
+    padding-top: 5%;
+    justify-content: center
+}
+
+
+@media screen and (min-width: 865px) and (max-width: 1050px){
+    
+    .model-block {
+        width: 36vw;
+    }
+} 
+
+@media screen and (min-width: 780px) and (max-width: 864px){
+    
+    .model-block {
+        margin-top: 9.5%;
+        width: 42vw;
+    }    
+} 
+
+@media screen and (min-width: 665px) and (max-width: 779px){
+    
+    .model-block {
+        margin-top: 10.5%;
+        width: 47vw;
+    }    
+} 
+
+@media screen and (min-width: 576px) and (max-width: 664px){
+    
+    .model-block {
+        margin-top: 12.5%;
+        width: 54vw;
+    }    
+
+    .model-text { 
+        font-size: 18px;
+    }
+} 
+
+
+@media screen and (min-width: 525px) and (max-width: 575px){
+    
+    .model-block {
+        margin-top: 13.5%;
+        margin-left: 20vw;
+        width: 60vw;
+    }    
+
+    .model-text { 
+        font-size: 18px;
+    }
+} 
+
+
+@media screen and (min-width: 485px) and (max-width: 525px){
+
+    .model-block {
+        margin-top: 15.5%;
+        margin-left: 17.5vw;
+        width: 65vw;
+    }    
+
+    .model-text { 
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 400px) and (max-width: 484px){
+
+    .model-block {
+        margin-top: 20.5%;
+        margin-left: 7.5vw;
+        width: 85vw;
+    }    
+
+    .model-text { 
+        font-size: 18px;
+    }
+}
+
+
+
+@media screen and (min-width: 320px) and (max-width: 399px){
+    
+    .model-block {
+        margin-top: 20.5%;
+        margin-left: 2.5vw;
+        width: 95vw;
+    }    
+
+    .model-text { 
+        font-size: 18px;
+    }
+}

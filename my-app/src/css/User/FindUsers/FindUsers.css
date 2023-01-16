@@ -1,0 +1,40 @@
+@media screen and (min-width: 800px) {
+   .user-profile-find-user {
+     width: 65vw;
+     margin: auto;
+     margin-top: 20px;
+     /* position: relative; top: 20px; */
+   }
+}
+ 
+@media screen and (min-width: 610px) and (max-width: 799px){
+   .user-profile-find-user {
+     width: 75vw;
+     margin: auto;
+     /* position: relative; top: 20px; */
+   }
+
+   
+}
+
+@media screen and (min-width: 361px) and (max-width: 609px) {
+   .user-profile-find-user {
+     width: 75vw;
+     margin: auto;
+     /* position: relative; top: 20px; */
+   }
+
+   
+}
+
+@media screen and (min-width: 320px) and (max-width: 360px) {
+
+   .user-profile-find-user {
+     width: 80vw;
+     margin: auto;
+     /* position: relative; top: 20px; */
+   }
+
+   
+}
+

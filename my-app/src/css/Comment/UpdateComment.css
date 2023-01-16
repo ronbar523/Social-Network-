@@ -1,0 +1,21 @@
+@media screen and (max-width: 699px){
+  
+  .cancel-button-update-comment {
+    margin-left: 35px;
+    border: none;
+    background: none;
+    color: blue;
+    position: relative; top: -10px;
+  }
+}
+
+@media screen and (min-width: 700px){
+  
+  .cancel-button-update-comment {
+    margin-left: 80px;
+    border: none;
+    background: none;
+    color: blue;
+    position: relative; top: -10px;
+  }
+}
